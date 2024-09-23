@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #mysql:8.0.39
-nacos/nacos-server:2.4.2
+nacos/nacos-server:latest
