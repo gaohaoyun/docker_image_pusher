@@ -6,4 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #mysql:8.0.39
-nacos/nacos-server:latest
+#nacos/nacos-server:latest
+elasticsearch:7.12.0
+redis:latest
