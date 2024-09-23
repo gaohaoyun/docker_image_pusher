@@ -11,5 +11,6 @@
 #redis:latest
 #rabbitmq:latest
 #apache/rocketmq:latest
-nacos/nacos-server:2.4.0
+apache/rocketmq:4.9.6
+#nacos/nacos-server:2.4.0
 
