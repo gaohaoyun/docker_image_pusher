@@ -15,5 +15,5 @@
 #apache/rocketmq:4.9.6
 #nacos/nacos-server:2.4.0
 #minio/minio:latest
-kafka:latest
-zookeeper:latest
+bitnami/kafka:latest
+bitnami/zookeeper:latest
