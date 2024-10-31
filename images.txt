@@ -6,14 +6,14 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #mysql:8.0.39
-mysql:8.0
-nacos/nacos-server:latest
-elasticsearch:7.12.0
-redis:latest
-rabbitmq:latest
-apache/rocketmq:latest
-apache/rocketmq:4.9.6
-nacos/nacos-server:2.4.0
+#mysql:8.0
+#nacos/nacos-server:latest
+#elasticsearch:7.12.0
+#redis:latest
+#rabbitmq:latest
+#apache/rocketmq:latest
+#apache/rocketmq:4.9.6
+#nacos/nacos-server:2.4.0
 minio/minio:latest
 #bitnami/kafka:latest
 #bitnami/zookeeper:latest
