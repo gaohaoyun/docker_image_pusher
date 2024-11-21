@@ -18,5 +18,6 @@ minio/minio:latest
 #bitnami/kafka:latest
 #bitnami/zookeeper:latest
 #apache/kafka:3.8.0
-openjdk:8
-apache/kafka:latest
+#openjdk:8
+#apache/kafka:latest
+openjdk:11
