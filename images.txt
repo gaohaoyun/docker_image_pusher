@@ -22,4 +22,5 @@ minio/minio:latest
 #apache/kafka:latest
 #openjdk:11
 #elasticsearch:7.14.0
-kibana:7.14.0
+#kibana:7.14.0
+nginx:latest
