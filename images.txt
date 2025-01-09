@@ -23,4 +23,5 @@ minio/minio:latest
 #openjdk:11
 #elasticsearch:7.14.0
 #kibana:7.14.0
-nginx:latest
+#nginx:latest
+shardingsphere-proxy:latest
