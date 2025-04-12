@@ -29,4 +29,4 @@
 #nacos/nacos-server
 #bellsoft/liberica-openjdk-debian:17.0.11-cds
 #bellsoft/liberica-openjdk-debian:21.0.5-cds
-proxysql
+proxysql/proxysql
