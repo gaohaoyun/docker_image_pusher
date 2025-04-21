@@ -17,6 +17,7 @@
 #minio/minio:latest
 #bitnami/kafka:latest
 #bitnami/zookeeper:latest
+#bitnami/zookeeper:latest
 #apache/kafka:3.8.0
 #openjdk:8
 #apache/kafka:latest
@@ -29,4 +30,7 @@
 #nacos/nacos-server
 #bellsoft/liberica-openjdk-debian:17.0.11-cds
 #bellsoft/liberica-openjdk-debian:21.0.5-cds
-proxysql/proxysql
+#proxysql/proxysql
+bitnami/zookeeper:latest
+apache/rocketmq:latest
+
