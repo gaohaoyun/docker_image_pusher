@@ -33,5 +33,5 @@
 #proxysql/proxysql
 #bitnami/zookeeper:latest
 #apache/rocketmq:latest
-apacherocketmq/rocketmq-console:latest
+apacherocketmq/rocketmq-console:2.0.0
 
