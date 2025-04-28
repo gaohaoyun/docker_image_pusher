@@ -35,6 +35,7 @@
 #apache/rocketmq:latest
 #apacherocketmq/rocketmq-console:2.0.0
 #nginx:1.26.3
-apache/rocketmq:5.1.0
+#apache/rocketmq:5.1.0
+apacherocketmq/rocketmq-dashboard:2.0.0
 
 
