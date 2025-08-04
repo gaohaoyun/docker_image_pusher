@@ -32,7 +32,7 @@
 #bellsoft/liberica-openjdk-debian:21.0.5-cds
 #bellsoft/liberica-openjdk-debian:21.0.7-cds
 #bellsoft/liberica-openjdk-debian:17.0.15-cds
-findepi/graalvm:java17-native
+#findepi/graalvm:java17-native
 #proxysql/proxysql
 #bitnami/zookeeper:latest
 #apache/rocketmq:latest
@@ -45,5 +45,5 @@ findepi/graalvm:java17-native
 #elasticsearch:8.17.6
 #kibana:9.0.2
 #kibana:8.17.6
-
+ollama/ollama:latest
 
