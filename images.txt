@@ -45,5 +45,6 @@
 #elasticsearch:8.17.6
 #kibana:9.0.2
 #kibana:8.17.6
-ollama/ollama:latest
+#ollama/ollama:latest
+polardbx/polardbx-engine-2.0:latest
 
