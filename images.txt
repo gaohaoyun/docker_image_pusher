@@ -47,5 +47,6 @@
 #kibana:8.17.6
 #ollama/ollama:latest
 #polardbx/polardbx-engine-2.0:latest
-kube-apiserver:v1.20.9
+#kube-apiserver:v1.20.9
+k8s.gcr.io/kube-apiserver:v1.23.0
 
