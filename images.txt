@@ -58,5 +58,6 @@
 #k8s.gcr.io/coredns:1.7.0
 #rancher/rancher:v2.5.7
 #rancher/rancher:latest
- rancher/rancher:v2.11.7
+ #rancher/rancher:v2.11.7
+rancher/rancher:stable
 
