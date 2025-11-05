@@ -60,5 +60,5 @@
 #rancher/rancher:latest
  #rancher/rancher:v2.11.7
 #rancher/rancher:stable
-rancher-agent:v2.5.7
+rancher/agent:v2.5.7
 
