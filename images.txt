@@ -60,5 +60,6 @@
 #rancher/rancher:latest
  #rancher/rancher:v2.11.7
 #rancher/rancher:stable
-rancher/rancher-agent:v2.5.7
-
+#rancher/rancher-agent:v2.5.7
+ghcr.io/flannel-io/flannel:v0.27.4
+ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
