@@ -63,4 +63,5 @@
 #rancher/rancher-agent:v2.5.7
 #ghcr.io/flannel-io/flannel:v0.27.4
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
-container-registry.oracle.com/mysql/community-operator:9.5.0-2.2.6
+#container-registry.oracle.com/mysql/community-operator:9.5.0-2.2.6
+mysql/community-operator:9.5.0-2.2.6
