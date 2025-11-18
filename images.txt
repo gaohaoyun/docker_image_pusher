@@ -66,4 +66,5 @@
 #container-registry.oracle.com/mysql/community-operator:9.5.0-2.2.6
 #mysql/community-operator:9.5.0-2.2.6
 #percona/percona-xtradb-cluster-operator:1.14.0
-perconalab/percona-xtradb-cluster-operator:main
+#perconalab/percona-xtradb-cluster-operator:main
+percona/percona-xtradb-cluster:8.0.32
