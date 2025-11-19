@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #mysql:8.0.39
+mysql:8.0.36
 #mysql:8.0
 #nacos/nacos-server:latest
 #elasticsearch:7.12.0
@@ -68,4 +69,4 @@
 #percona/percona-xtradb-cluster-operator:1.14.0
 #perconalab/percona-xtradb-cluster-operator:main
 #percona/percona-xtradb-cluster:8.0.32
-percona/percona-xtradb-cluster-operator:1.12.0-proxysql
+#percona/percona-xtradb-cluster-operator:1.12.0-proxysql
