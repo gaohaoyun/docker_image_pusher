@@ -34,7 +34,7 @@ mysql:8.0.36
 #bellsoft/liberica-openjdk-debian:21.0.7-cds
 #bellsoft/liberica-openjdk-debian:17.0.15-cds
 #findepi/graalvm:java17-native
-#proxysql/proxysql
+proxysql/proxysql:3.0.2
 #bitnami/zookeeper:latest
 #apache/rocketmq:latest
 #apacherocketmq/rocketmq-console:2.0.0
