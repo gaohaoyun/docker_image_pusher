@@ -12,8 +12,8 @@ mysql:8.0.36
 #elasticsearch:7.12.0
 #redis:latest
 #rabbitmq:latest
- apache/rocketmq:5.3.2
-styletang/rocketmq-console-ng:latest
+ #apache/rocketmq:5.3.2
+#styletang/rocketmq-console-ng:latest
 #apache/rocketmq:latest
 #apache/rocketmq:4.9.6
 #nacos/nacos-server:2.4.0
@@ -42,7 +42,7 @@ styletang/rocketmq-console-ng:latest
 #apacherocketmq/rocketmq-console:2.0.0
 #nginx:1.26.3
 #apache/rocketmq:5.1.0
-#apacherocketmq/rocketmq-dashboard:2.0.0
+apacherocketmq/rocketmq-dashboard:latest
 #ghcr.io/open-webui/open-webui:main
 #elasticsearch:9.0.2
 #elasticsearch:8.17.6
