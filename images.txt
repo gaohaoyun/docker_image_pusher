@@ -5,8 +5,14 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+mysql:8.4.4
+mysql:8.4.5
+mysql:8.4.6
+mysql:9.1.0
+mysql:9.3.0
+mysql:9.4.0
 #mysql:8.0.39
-mysql:8.0.36
+#mysql:8.0.36
 #mysql:8.0
 #nacos/nacos-server:latest
 #elasticsearch:7.12.0
