@@ -81,4 +81,4 @@ apacherocketmq/rocketmq-dashboard:latest
 #percona/percona-xtradb-cluster-operator:1.12.0-proxysql
 #osixia/keepalived:2.0.20
 grafana/grafana:8.3.0
-prom/prometheus:2.43.0
+prom/prometheus:v2.2.1
