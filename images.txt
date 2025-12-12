@@ -82,3 +82,6 @@ apacherocketmq/rocketmq-dashboard:latest
 #osixia/keepalived:2.0.20
 grafana/grafana:8.3.0
 #prom/prometheus:latest
+prom/prometheus:v2.51.0
+prom/haproxy-exporter:v0.15.0
+ prom/node-exporter:v1.7.0
