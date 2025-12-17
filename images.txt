@@ -18,6 +18,7 @@ styletang/rocketmq-console-ng:latest
 #nacos/nacos-server:latest
 #elasticsearch:7.12.0
 #redis:latest
+redis:7.0
 #rabbitmq:latest
  #apache/rocketmq:5.3.2
 #styletang/rocketmq-console-ng:latest
@@ -80,8 +81,8 @@ apacherocketmq/rocketmq-dashboard:latest
 #percona/percona-xtradb-cluster:8.0.32
 #percona/percona-xtradb-cluster-operator:1.12.0-proxysql
 #osixia/keepalived:2.0.20
-grafana/grafana:8.3.0
+#grafana/grafana:8.3.0
 #prom/prometheus:latest
-prom/prometheus:v2.51.0
-prom/haproxy-exporter:v0.15.0
- prom/node-exporter:v1.7.0
+#prom/prometheus:v2.51.0
+#prom/haproxy-exporter:v0.15.0
+ #prom/node-exporter:v1.7.0
