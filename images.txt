@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rabbitmq:3.8.2-management
+pivotalrabbitmq/perf-test:latest
+#rabbitmq:3.8.2-management
 #rabbitmq:4.2.2-management
 #mysql:8.4.4
 #mysql:8.4.5
