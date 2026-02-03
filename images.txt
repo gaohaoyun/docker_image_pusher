@@ -88,4 +88,5 @@
 #prom/prometheus:v2.51.0
 #prom/haproxy-exporter:v0.15.0
  #prom/node-exporter:v1.7.0
-qdrant/qdrant:latest
+#qdrant/qdrant:latest
+milvusdb/milvus:v2.6.9
