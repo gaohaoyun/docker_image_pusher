@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-pivotalrabbitmq/perf-test:latest
+#pivotalrabbitmq/perf-test:latest
 #rabbitmq:3.8.2-management
 #rabbitmq:4.2.2-management
 #mysql:8.4.4
@@ -52,7 +52,7 @@ pivotalrabbitmq/perf-test:latest
 #apacherocketmq/rocketmq-console:2.0.0
 #nginx:1.26.3
 #apache/rocketmq:5.1.0
-apacherocketmq/rocketmq-dashboard:latest
+#apacherocketmq/rocketmq-dashboard:latest
 #ghcr.io/open-webui/open-webui:main
 #elasticsearch:9.0.2
 #elasticsearch:8.17.6
@@ -88,3 +88,4 @@ apacherocketmq/rocketmq-dashboard:latest
 #prom/prometheus:v2.51.0
 #prom/haproxy-exporter:v0.15.0
  #prom/node-exporter:v1.7.0
+qdrant/qdrant:latest
