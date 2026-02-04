@@ -90,4 +90,5 @@
  #prom/node-exporter:v1.7.0
 #qdrant/qdrant:latest
 #milvusdb/milvus:v2.6.9
-postgres:16 
+#postgres:16 
+mongo:6.0.18 
