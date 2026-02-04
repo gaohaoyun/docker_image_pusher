@@ -89,5 +89,5 @@
 #prom/haproxy-exporter:v0.15.0
  #prom/node-exporter:v1.7.0
 #qdrant/qdrant:latest
-
-milvusdb/milvus:v2.6.9
+#milvusdb/milvus:v2.6.9
+postgres:16 
