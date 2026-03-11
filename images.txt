@@ -98,5 +98,6 @@
 #milvusdb/milvus:v2.4.10
 #seataio/seata-server:1.7.1
 #apache/seata-server:2.5.0
-nacos/nacos-server:v3.0.0
-nacos/nacos-server:v3.1.0
+#nacos/nacos-server:v3.0.0
+#nacos/nacos-server:v3.1.0
+nacos/nacos-server:v3.1.1
