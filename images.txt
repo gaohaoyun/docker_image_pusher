@@ -102,5 +102,7 @@
 #nacos/nacos-server:v3.1.0
 #nacos/nacos-server:v3.1.1
 apache/shardingsphere-proxy:5.4.0
+apache/shardingsphere-proxy:5.5.0
+apache/shardingsphere-proxy:5.5.1
 apache/shardingsphere-proxy:5.5.2
-apache/shardingsphere-proxy:5.5.3
+
