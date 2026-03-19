@@ -105,7 +105,8 @@
 #apache/shardingsphere-proxy:5.5.0
 #apache/shardingsphere-proxy:5.5.1
 #apache/shardingsphere-proxy:5.5.2
-apache/skywalking-oap-server:10.1.0
-apache/skywalking-ui:10.1.0
-
+#apache/skywalking-oap-server:10.1.0
+#apache/skywalking-ui:10.1.0
+apache/skywalking-oap-server:10.3.0
+apache/skywalking-ui:10.3.0
 
