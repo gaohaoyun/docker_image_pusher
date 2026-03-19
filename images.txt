@@ -109,6 +109,6 @@
 #apache/skywalking-ui:10.1.0
 #apache/skywalking-oap-server:10.3.0
 #apache/skywalking-ui:10.3.0
-apache/skywalking-ui:8.5.0
-apache/skywalking-oap-server:8.5.0
+#apache/skywalking-ui:8.5.0
+apache/skywalking-oap-server:8.5.0-es7
 
