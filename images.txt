@@ -113,11 +113,14 @@
 #apache/skywalking-oap-server:8.5.0-es7
 
 #2026.0323
-registry.k8s.io/kube-apiserver:v1.35.2
-registry.k8s.io/kube-controller-manager:v1.35.2
-registry.k8s.io/kube-scheduler:v1.35.2
-registry.k8s.io/kube-proxy:v1.35.2
-registry.k8s.io/coredns/coredns:v1.13.1
-registry.k8s.io/pause:3.10.1
-registry.k8s.io/etcd:3.6.6-0
+#registry.k8s.io/kube-apiserver:v1.35.2
+#registry.k8s.io/kube-controller-manager:v1.35.2
+#registry.k8s.io/kube-scheduler:v1.35.2
+#registry.k8s.io/kube-proxy:v1.35.2
+#registry.k8s.io/coredns/coredns:v1.13.1
+#registry.k8s.io/pause:3.10.1
+#registry.k8s.io/etcd:3.6.6-0
+
+ghcr.io/flannel-io/flannel-cni-plugin:v1.9.0-flannel1
+ghcr.io/flannel-io/flannel:v0.28.1
 
