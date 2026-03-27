@@ -124,7 +124,11 @@
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.9.0-flannel1
 #ghcr.io/flannel-io/flannel:v0.28.1
 
-docker.io/calico/cni:v3.28.0
-docker.io/calico/node:v3.28.0
-docker.io/calico/kube-controllers:v3.28.0
+#docker.io/calico/cni:v3.28.0
+#docker.io/calico/node:v3.28.0
+#docker.io/calico/kube-controllers:v3.28.0
+
+#2026 0327
+canal/canal-server:v1.1.8
+canal/canal-server:v1.1.5
 
