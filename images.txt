@@ -139,4 +139,6 @@
 #slpcat/canal-adapter:v1.1.8
 
 #20260402
-zookeeper:3.8.1
+#zookeeper:3.8.1
+zookeeper:3.8.6
+zookeeper:3.9.5
