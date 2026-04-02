@@ -139,4 +139,4 @@
 #slpcat/canal-adapter:v1.1.8
 
 #20260402
-bitnami/zookeeper:3.6.3
+zookeeper:3.8.1
