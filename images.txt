@@ -135,5 +135,8 @@
 #canal/canal-adapter:v1.1.7
 #canal/canal-admin:v1.1.8
 #canal/canal-admin:v1.1.5
-slpcat/canal-adapter:v1.1.5
-slpcat/canal-adapter:v1.1.8
+#slpcat/canal-adapter:v1.1.5
+#slpcat/canal-adapter:v1.1.8
+
+#20260402
+bitnami/zookeeper:3.6.3
