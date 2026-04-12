@@ -140,5 +140,11 @@
 
 #20260402
 #zookeeper:3.8.1
-zookeeper:3.8.6
-zookeeper:3.9.5
+#zookeeper:3.8.6
+#zookeeper:3.9.5
+
+#20260412
+apache/kafka:4.2.0
+apache/kafka:4.1.2
+apache/kafka:4.0.2
+apache/kafka:3.9.2
