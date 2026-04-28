@@ -151,4 +151,8 @@
 
 #20260421
 #rabbitmq:4.2.5-management
-pivotalrabbitmq/perf-test:2.24.0
+#pivotalrabbitmq/perf-test:2.24.0
+
+#20260428
+apache/rocketmq:5.3.2
+
