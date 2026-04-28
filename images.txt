@@ -150,4 +150,5 @@
 #apache/kafka:3.9.2
 
 #20260421
-rabbitmq:4.2.5-management
+#rabbitmq:4.2.5-management
+pivotalrabbitmq/perf-test:2.24.0
