@@ -149,7 +149,7 @@
 #apache/kafka:4.0.2
 #apache/kafka:3.9.2
 provectuslabs/kafka-ui:latest
-provectuslabs/kafka-ui:0.7.2
+#provectuslabs/kafka-ui:0.7.2
 
 #20260421
 #rabbitmq:4.2.5-management
