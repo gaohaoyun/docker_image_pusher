@@ -162,4 +162,9 @@
 #apacherocketmq/rocketmq-dashboard:latest
 
 #20260928
-docker.elastic.co/beats/filebeat:8.15.0
+#docker.elastic.co/beats/filebeat:8.15.0
+
+#20261012
+xuxueli/xxl-job-admin:2.4.2
+xuxueli/xxl-job-admin:3.5.0
+xuxueli/xxl-job-admin:3.4.2
