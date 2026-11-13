@@ -172,6 +172,6 @@
 #xuxueli/xxl-job-admin:3.4.2
 
 #20261112
-#redis/redis-stack:latest
+redis/redis-stack:latest
 #redis:8.2.11
-redis:8.4.8
+#redis:8.4.8
